@@ -12,7 +12,7 @@ const iconMap = {
   pending: ClockIcon,
   invoices: InboxIcon,
 };
-
+/* just for commit 2 */
 export default async function CardWrapper() {
   return (
     <>
